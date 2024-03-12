@@ -4,6 +4,6 @@
 
 ### Router
 
-![store](https://raw.githubusercontent.com/tattyola/todo/main/public/images/store.png)
+![store](https://raw.githubusercontent.com/tattyola/store/main/public/images/store.png)
 
-![cart](https://raw.githubusercontent.com/tattyola/todo/main/public/images/cart.png)
+![cart](https://github.com/tattyola/store/blob/main/public/images/cart.png?raw=true)
