@@ -1,0 +1,17 @@
+[{
+  "id": 1,
+  "name": "RB 1 white",
+  "price": 299,
+  "imgUrl": "/images/rb1.webp"
+}, {
+  "id": 2,
+  "name": "RB 2 blue",
+  "price": 350,
+  "imgUrl": "/images/rb2.webp"
+}, {
+  "id": 3,
+  "name": "RB 3 black",
+  "price": 330,
+  "imgUrl": "/images/rb3.webp"
+}
+]
